@@ -15,4 +15,7 @@ wheels/
 *.pth
 *.tar
 *.gz
+*.txt
+*.jpg
+*.png
 cifar*/
