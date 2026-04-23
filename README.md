@@ -53,3 +53,11 @@
 4) https://www.kaggle.com/competitions/histopathologic-cancer-detection
 5) https://www.kaggle.com/competitions/planet-understanding-the-amazon-from-space
 6) https://www.kaggle.com/c/landmark-recognition-2021
+
+### Рекуррентные нейронные сети (RNN)
+1) https://www.kaggle.com/competitions/store-sales-time-series-forecasting
+2) https://www.kaggle.com/competitions/nlp-getting-started
+3) https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
+4) https://www.kaggle.com/competitions/ventilator-pressure-prediction
+5) https://kaggle.com/competitions/amex-default-prediction
+6) https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
