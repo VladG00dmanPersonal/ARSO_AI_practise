@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "albumentations>=2.0.8",
     "catboost>=1.2.10",
     "datasets>=4.6.1",
     "emoji>=2.15.0",
@@ -15,6 +16,7 @@ dependencies = [
     "lightgbm>=4.6.0",
     "matplotlib>=3.10.8",
     "nltk>=3.9.3",
+    "opencv-python>=4.13.0.92",
     "optuna>=4.7.0",
     "pandas>=2.3.3",
     "scikit-image>=0.25.2",
